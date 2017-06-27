@@ -21,7 +21,7 @@ To complete the following psets, I studied all of the CS50 lectures, walkthrough
 - Week 2 Arrays
 - Week 3 Algorithms
 - Week 4 Memory
-- Week 5Data Structures
+- Week 5 Data Structures
 - Week 6 HTTP
 - Week 7 Machine Learning
 - Week 8 Python
