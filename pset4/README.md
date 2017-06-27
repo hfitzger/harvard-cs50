@@ -7,4 +7,6 @@
 - Help figure out whodunit (find a hidden message in a jpeg)
 
 ### Projects
-Implement recover.c, resize.c, and whodunit.c. See folders for project details.
+- Implement recover.c, a program that recovers JPEGs from a forensic image
+- Implement resize.c, a program that resizes BMPs
+- Implement whodunit.c, a program that reveals a hidden message in a BMP
