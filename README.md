@@ -27,4 +27,4 @@ To complete the following psets, I studied all of the CS50 lectures, walkthrough
 - Week 8 Python
 - Week 9 SQL
 - Week 10 JavaScript
-- Week 11 The End
+- Week 11 Final Project with Service Master in Memphis,TN
