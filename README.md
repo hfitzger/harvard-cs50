@@ -1,5 +1,5 @@
-# Harvard CS50: Introduction to Computer Science
-Problem sets and projects for Harvard CS50: Introduction to Computer Science
+# Harvard CS50: Introduction to Coding and Computer Science
+Problem sets and projects for Harvard University CS50
 
 To complete the following psets, I studied all of the CS50 lectures, walkthroughs, sections, and shorts on edX. All pset submissions received scores of 100% from the CS50x gradebook.
 
